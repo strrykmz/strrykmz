@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamM1MHNlYXZzdDMzOWRhbXNucTF0MDZ6angwcjIxNXpvczVscmI0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif"  />
 
 ###
 
@@ -67,12 +67,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/strrykmz/strrykmz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/strrykmz/count.svg?"  />
-</div>
 
 ###
 
