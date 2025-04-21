@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">Hey there 👋, Im Prayuga Satya Wibisono</h2>
+<h2 align="center">Hey there 👋</h2>
 
 ###
 
