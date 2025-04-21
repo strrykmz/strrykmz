@@ -67,6 +67,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/strrykmz/strrykmz/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h6 align="left">Coming soon. . . .</h6>
 
 ###
