@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Satyaa;A+Full+Stack+Developer.;An+Open+Source+Contributor.;A+Game+and+UI%2FUX+Designer)](https://git.io/typing-svg)
+
 <div align="center">
   <img height="150" src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif"  />
 </div>
