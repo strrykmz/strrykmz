@@ -19,10 +19,10 @@
 </div>
 
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Satyaa;A+Full+Stack+Developer.;An+Open+Source+Contributor.;A+Game+and+UI%2FUX+Designer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Satyaa;A+Full+Stack+Developer.;An+Open+Source+Contributor.;A+Game+and+UI%2FUX+Designer)](https://git.io/typing-svg)
+
 ###
-
 <p align="center">I am a passionate Full Stack Developer with over a year of experience in delivering innovative digital solutions<br>Full Stack Developer | UI/UX Designer | Software Engineer</p>
 
 ###
